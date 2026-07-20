@@ -16,3 +16,5 @@ or write me, whatever you desire
 ## License
 GPL **<3** .0
 
+## API
+Adoration, Passion, Intimacy :3
